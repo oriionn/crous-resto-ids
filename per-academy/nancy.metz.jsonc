@@ -1,0 +1,45 @@
+{
+    // Nancy
+    "421": "", // RU Cours Léopold
+    "422": "", // RU Médreville
+    "1021": "", // (S)pace Artem
+    "424": "", // RU Saurupt
+    "425": "", // RU Stanislas-Meurthe
+    "1277": "", // CA Droit
+    "1082": "", // CA Charle'Miam
+    "1278": "", // CA Lettres
+    "1282": "", // CA Pôle Herbert Simon
+
+    // Vandœuvre-lès-Nancy
+    "420": "", // (S)pace Brabois
+    "426": "", // RU Vélodrome
+    "1280": "", // CA Odontologie
+    "1281": "", // CA ENSEM
+    "1291": "", // CA Sciences
+    "1294": "", // CA Vélodrome
+
+    // Villers-lès-Nancy
+    "1279": "", // CA Montet
+
+    // Metz
+    "428": "", // RU Bridoux
+    "430": "", // RU Technopôle
+    "431": "", // RU Verlaine
+    "681": "", // RU Metz'In
+    "1053": "", // RU CentraleSupélec,
+    "1285": "", // CA Simone Veil
+    "1287": "", // CA Bridoux
+    "1288": "", // (S)pace Saulcy
+    "1283": "", // CA MIM
+
+    // Épinal
+    "432": "", // RU Campus Bois
+    "433": "", // RU La Louvière
+
+    // Longwy
+    "434": "", // RU Jean Monnet
+
+    // Yutz
+    "435": "", // RU Cormontaigne
+    "1292": "", // CA Cormontaigne
+}
